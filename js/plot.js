@@ -83,7 +83,7 @@ $( document ).ready(function() {
 			font: {
 				size: 16,
 				weight: "bold",
-				color: "black",
+				color: "white",
 				family: "Helvetica"
 			},
 			ticks: [1e-10, 1e-8, 1e-6, 1e-4, 1e-2, 1e0, 1e2, 1e4, 1e6],
@@ -97,7 +97,7 @@ $( document ).ready(function() {
 			font: {
 				size: 16,
 				weight: "bold",
-				color: "black",
+				color: "white",
 				family: "Helvetica"
 			},
 			labelWidth: 80,
@@ -144,8 +144,7 @@ $( document ).ready(function() {
     	var canvas = plot.getCanvas();
     	if (true || 0.9*window.innerWidth < 1000) {
 			var imgcanvas = document.createElement('canvas');
-			imgcanvas.width = 0.9*window.innerWidth < 1000 ? 0.9*window.innerWidth : 1000;
-			imgcanvas.width = imgcanvas.width < 500 ? 500 : imgcanvas.width;
+			imgcanvas.width = 2000;
 			imgcanvas.height = imgcanvas.width * 0.637;
 			var imgctx = imgcanvas.getContext("2d");
 			imgctx.drawImage(canvas, 0, 0, imgcanvas.width, imgcanvas.height);
@@ -173,7 +172,7 @@ $( document ).ready(function() {
 			}
 		});
 		
-		ctx.fillStyle = "rgb(0,0,0)";
+		ctx.fillStyle = "rgb(255, 255, 255)";
 		ctx.font="normal normal bold 18px Helvetica";
 		ctx.textAlign = "center";
 		ctx.fillText("Frequency / Hz", 540, 620);
@@ -420,7 +419,7 @@ $( document ).ready(function() {
 			"name" : "Custom PTA", 
 			"datafile" : "", 
 			"type" : 0, 
-			"color" : "rgb(0,0,0)", 
+			"color" : "rgb(255,255,255)", 
 			"plotlabels" : ["PTA", "PTA", "PTA"], 
 			"labelpos" : [[2.0e-6, 3.0e-14], [2.0e-6, 0.4e-10], [1.80e-6, 0.001]], 
 			"params" : {

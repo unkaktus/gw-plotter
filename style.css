@@ -4,6 +4,8 @@ body {
   font-family: 'Open Sans', helvetica, sans-serif;
   font-size: 100%;
   margin:0;
+  background-color: #1e1e1e;
+  color: white;
 }
 
 h1 {
@@ -31,7 +33,7 @@ h3 {
   position: fixed;
   top: 0px;
   left: 0px;
-  background-color: white;
+  background-color: #1e1e1e;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -100,7 +102,7 @@ div#customise_button {
 }
 
 div#customise_button:hover {
-  color:Black;
+  color:white;
 }
 
 div#redirect_notice {

@@ -196,7 +196,7 @@
 "datafile" : "data\/sources\/pulsars.json", 
 "type" : -3, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"Pulsars", 
 	"Pulsars", 
@@ -221,7 +221,7 @@
 "datafile" : "data\/detectors\/EPTA.json", 
 "type" : 0, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"EPTA", 
 	"EPTA", 
@@ -251,7 +251,7 @@
 "datafile" : "data\/detectors\/IPTA.json", 
 "type" : 0, 
 "default" : 1, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"IPTA", 
 	"IPTA", 
@@ -281,7 +281,7 @@
 "datafile" : "data\/detectors\/SKA.json", 
 "type" : 0, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"SKA", 
 	"SKA", 
@@ -311,7 +311,7 @@
 "datafile" : "data\/detectors\/eLISA.json", 
 "type" : 2, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"eLISA", 
 	"eLISA", 
@@ -335,7 +335,7 @@
 "datafile" : "data\/detectors\/LISA.json", 
 "type" : 2, 
 "default" : 1, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"LISA", 
 	"LISA", 
@@ -359,7 +359,7 @@
 "datafile" : "data\/detectors\/DECIGO.json", 
 "type" : 2, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"DECIGO", 
 	"DECIGO", 
@@ -383,7 +383,7 @@
 "datafile" : "data\/detectors\/BBO.json", 
 "type" : 2, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"BBO", 
 	"BBO", 
@@ -407,7 +407,7 @@
 "datafile" : "data\/detectors\/TAMA.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"TAMA", 
 	"TAMA", 
@@ -431,7 +431,7 @@
 "datafile" : "data\/detectors\/GEO.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"GEO", 
 	"GEO", 
@@ -455,7 +455,7 @@
 "datafile" : "data\/detectors\/LIGO.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"LIGO", 
 	"LIGO", 
@@ -479,7 +479,7 @@
 "datafile" : "data\/detectors\/aLIGO-O1.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"aLIGO (O1)", 
 	"aLIGO (O1)", 
@@ -503,7 +503,7 @@
 "datafile" : "data\/detectors\/aLIGODesign.json", 
 "type" : 1, 
 "default" : 1, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"aLIGO", 
 	"aLIGO", 
@@ -527,7 +527,7 @@
 "datafile" : "data\/detectors\/Aplus.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"A+", 
 	"A+", 
@@ -551,7 +551,7 @@
 "datafile" : "data\/detectors\/VIRGO.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"Virgo", 
 	"Virgo", 
@@ -575,7 +575,7 @@
 "datafile" : "data\/detectors\/aVIRGO.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"AdV", 
 	"AdV", 
@@ -599,7 +599,7 @@
 "datafile" : "data\/detectors\/KAGRA.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"KAGRA", 
 	"KAGRA", 
@@ -624,7 +624,7 @@
 "datafile" : "data\/detectors\/ET.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"ET", 
 	"ET", 
@@ -648,7 +648,7 @@
 "datafile" : "data\/detectors\/ALIA.json", 
 "type" : 2, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"ALIA", 
 	"ALIA", 
@@ -720,7 +720,7 @@
 "datafile" : "data\/detectors\/CosmicExplorer.json", 
 "type" : 1, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"CE", 
 	"CE", 
@@ -744,7 +744,7 @@
 "datafile" : "data\/detectors\/TianQin.json", 
 "type" : 2, 
 "default" : 0, 
-"color" : "rgb(0,0,0)", 
+"color" : "rgb(255,255,255)", 
 "plotlabels" : [
 	"TianQin", 
 	"TianQin", 
