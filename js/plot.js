@@ -144,7 +144,7 @@ $( document ).ready(function() {
     	var canvas = plot.getCanvas();
     	if (true || 0.9*window.innerWidth < 1000) {
 			var imgcanvas = document.createElement('canvas');
-			imgcanvas.width = 0.9*window.innerWidth < 2000 ? 0.9*window.innerWidth : 2000;
+			imgcanvas.width = 0.9*window.innerWidth < 1000 ? 0.9*window.innerWidth : 1000;
 			imgcanvas.width = imgcanvas.width < 500 ? 500 : imgcanvas.width;
 			imgcanvas.height = imgcanvas.width * 0.637;
 			var imgctx = imgcanvas.getContext("2d");
